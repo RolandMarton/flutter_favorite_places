@@ -2,6 +2,8 @@
 
 This is a demo application using the native device features like the camera and the gps location. User can save places using their location and save images using the cameras. The application uses several packages and using the Google API to use Map APIs. 
 
+NOTE: If you want to use this app you have to provide your own API key. So replace YOUR_API with an existing Google API key.
+
 ## Gallery
 <div align="center">
  <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/4198d214-3ea6-4402-95fe-edf2bab17104" width="20%"></img>&nbsp;&nbsp;&nbsp; 
