@@ -2,6 +2,18 @@
 
 This is a demo application using the native device features like the camera and the gps location. User can save places using their location and save images using the cameras. The application uses several packages and using the Google API to use Map APIs. 
 
+## Gallery
+<div align="center">
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/4198d214-3ea6-4402-95fe-edf2bab17104" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/7487d451-9a3d-42dc-8634-9bebb77e8ae4" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/924e5cc3-34a9-4cba-9b4c-455ee3f10108" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/20d36bda-86ea-4dae-82d5-386a3ba5094d" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/33ad766e-5240-4a9f-9559-35fb38eb0e60" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/98a52f8e-7b7b-4bbd-bd5f-810009dc5cce" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/aff7cbf5-5f69-4896-8aa0-dfdef9596d75" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/RolandMarton/flutter_favorite_places/assets/88943189/729cd4dd-ec6d-406a-aeb8-d7c610a928e5" width="20%"></img>&nbsp;&nbsp;&nbsp; 
+</div>
+
 ## Package Versions
 - cupertino_icons: ^1.0.2
 - google_fonts: ^4.0.4
